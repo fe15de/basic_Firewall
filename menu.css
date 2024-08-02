@@ -61,3 +61,23 @@ header.abajo .logo,
 header.abajo ul li a{
     color: #000;
 }
+
+video{
+    position: absolute;
+}
+.overlay{
+    position: absolute;
+    background-color: (0,0,0,0.6);
+    margin-top: 10vw;
+    margin-left: 10vw;
+    
+}
+
+.inner {
+    position: absolute;
+    color: #cf1a1a;
+    font-weight: bolder;
+    font-size: xx-large;
+    font-family: sans-serif;
+
+}
